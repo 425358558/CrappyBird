@@ -2,6 +2,7 @@ CrappyBird
 ==========
 
 Clone of Flappy Bird game in JavaScript and Canvas 2D
+
 Forked from: https://github.com/varunpant/CrappyBird
 
 This version supports background music, just make your own "bgm.ogg" and put it into the same folder, enjoy!
