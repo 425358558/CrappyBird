@@ -2,6 +2,9 @@ CrappyBird
 ==========
 
 Clone of Flappy Bird game in JavaScript and Canvas 2D
+Forked from: https://github.com/varunpant/CrappyBird
+
+This version supports background music, just make your own "bgm.ogg" and put it into the same folder, enjoy!
 
 
 The MIT License
@@ -22,5 +25,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS3.PNG?raw=true=50x20)
 ![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS4.PNG?raw=true=50x20)
 
-
-Play it [here](http://varunpant.com/static/resources/CrappyBird/index.html)
