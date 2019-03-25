@@ -7,6 +7,8 @@ Forked from: https://github.com/varunpant/CrappyBird
 
 This version supports background music, just make your own "bgm.ogg" and put it into the same folder, enjoy!
 
+這個版本由官大為（Wiwi Kuan）修改，支援背景音樂，請放入你自己的 bgm.ogg 到同一資料夾即可！
+
 
 The MIT License
 ----
